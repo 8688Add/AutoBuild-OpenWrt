@@ -11,3 +11,5 @@
 #git clone https://github.com/brokeld/luci-app-koolproxyR.git package/luci-app-koolproxyR
 
 #git clone https://github.com/Leo-Jo-My/luci-app-vssr.git package/luci-app-vssr
+
+git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
