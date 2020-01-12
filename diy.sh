@@ -16,7 +16,7 @@ git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-ser
 
 git clone https://github.com/Lienol/openwrt-package.git package/luci-app-passwall
 
-git clone https://github.com/Lienol/openwrt-package.git package/luci-app-brook-server
+#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-brook-server
 
 git clone https://github.com/Lienol/openwrt-package.git package/luci-app-trojan-server
 
