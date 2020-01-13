@@ -14,16 +14,16 @@ git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic-mini.g
 
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 
-#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-passwall
+git clone https://github.com/coolsnowwolf/lede.git package/luci-app-ssr-plus
 
-#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-brook-server
+git clone https://github.com/coolsnowwolf/lede.git package/luci-app-ssr-plus_INCLUDE_Shadowsocks
 
-#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-trojan-server
+git clone https://github.com/coolsnowwolf/lede.git package/luci-app-ssr-plus_INCLUDE_ShadowsocksR_Server
 
-#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-control-mia
+git clone https://github.com/coolsnowwolf/lede.git package/luci-app-ssr-plus_INCLUDE_ShadowsocksR_Socks
 
-#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-control-timewol
+git clone https://github.com/coolsnowwolf/lede.git package/luci-app-ssr-plus_INCLUDE_V2ray
 
-#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-control-webrestriction
+git clone https://github.com/coolsnowwolf/lede.git package/luci-app-ssr-plus_INCLUDE_Trojan
 
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-control-weburl
