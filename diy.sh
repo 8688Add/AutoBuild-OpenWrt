@@ -14,6 +14,3 @@ git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic-mini.g
 
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 
-git clone https://github.com/Leo-Jo-My/luci-app-ssr-plus-Jo.git package/luci-app-ssr-plus-Jo
-
-git clone https://github.com/Leo-Jo-My/my.git package/luci-app-ssr-plus-Jo
