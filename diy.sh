@@ -26,7 +26,7 @@ git clone https://github.com/Lienol/openwrt-package.git package/luci-app-passwal
 
 git clone https://github.com/Lienol/openwrt-package.git package/luci-app-trojan-server
 
-git clone https://github.com/Lienol/openwrt-package.git package/luci-app-fileassistant
+#git clone https://github.com/Lienol/openwrt-package.git package/luci-app-fileassistant
 
 
 
