@@ -28,5 +28,7 @@ git clone https://github.com/Lienol/openwrt-package.git package/luci-app-trojan-
 
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-fileassistant
 
+git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon-dark-mod
+
 
 
