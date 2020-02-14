@@ -26,8 +26,6 @@ git clone https://github.com/Lienol/openwrt-package.git package/luci-app-passwal
 
 git clone https://github.com/Lienol/openwrt-package.git package/luci-app-trojan-server
 
-git clone https://e.coding.net/Small_5/luci-app-adbyby-plus-special.git package/luci-app-adbyby-plus-special
-
 git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon-dark-mod
 
 
