@@ -28,7 +28,7 @@ git clone https://github.com/Lienol/openwrt-package.git package/luci-app-trojan-
 
 git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon-dark-mod
 
-#git clone https://github.com/project-openwrt/luci-app-233ddns.git package/luci-app-233ddns
+git clone https://github.com/project-openwrt/luci-app-233ddns.git package/luci-app-233ddns
 
 
 
