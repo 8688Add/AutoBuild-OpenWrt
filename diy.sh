@@ -10,8 +10,6 @@
 
 #git clone https://github.com/brokeld/luci-app-koolproxyR.git package/luci-app-koolproxyR
 
-git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic-mini.git package/luci-app-unblockneteasemusic-mini
-
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 
 git clone https://github.com/Lienol/openwrt-package.git package/luci-app-control-mia
