@@ -28,8 +28,6 @@ git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon
 
 git clone https://github.com/8688Add/luci-app-unblockneteasemusic-mod.git package/luci-app-unblockneteasemusic-mod
 
-git clone https://github.com/0118Add/luci-app-frpc-mod.git package/luci-app-frpc-mod
-
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-fileassistant
 
 #git clone https://github.com/project-openwrt/luci-app-233ddns.git package/luci-app-233ddns
