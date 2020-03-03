@@ -19,6 +19,6 @@ git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-ser
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon-dark-mod
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-fileassistant
 #git clone https://github.com/project-openwrt/luci-app-233ddns.git package/luci-app-233ddns
-
+git clone https://github.com/8688Add/luci-theme-argon-dark-mod.git package/luci-theme-argon-dark-mod
 
 
