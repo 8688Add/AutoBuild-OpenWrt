@@ -17,7 +17,7 @@
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-control-weburl
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-passwall
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-trojan-server
-git clone https://github.com/Lienol/openwrt-package.git package/luci-theme-argon-dark-mod
+git clone https://github.com/8688Add/luci-theme-argon-dark-mod.git package/luci-theme-argon-dark-mod
 #git clone https://github.com/Lienol/openwrt-package.git package/luci-app-fileassistant
 git clone https://github.com/fw876/helloworld.git package/luci-app-ssr-plus
 
